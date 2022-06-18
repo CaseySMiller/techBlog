@@ -34,7 +34,7 @@
   
   To contribute send an email to the address below
   
-  ## Testing Guidelines
+  ## Tests
   
   Visit the deployed page and check operation of application.
   
